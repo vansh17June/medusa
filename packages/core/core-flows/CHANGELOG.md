@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.19.0
+
+### Patch Changes
+
+- [#16033](https://github.com/medusajs/medusa/pull/16033) [`e037c71ff11add91583124a600840ce793421fe7`](https://github.com/medusajs/medusa/commit/e037c71ff11add91583124a600840ce793421fe7) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(core-flows): recompute draft order tax lines on address change and conversion
+
+- Updated dependencies []:
+  - @medusajs/framework@2.19.0
+
 ## 2.18.0
 
 ### Patch Changes

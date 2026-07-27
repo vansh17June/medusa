@@ -1,5 +1,11 @@
 # @medusajs/js-sdk
 
+## 2.19.0
+
+### Minor Changes
+
+- [#16187](https://github.com/medusajs/medusa/pull/16187) [`f16a505cb0ccfc103ca393847bb819e8f7c6255a`](https://github.com/medusajs/medusa/commit/f16a505cb0ccfc103ca393847bb819e8f7c6255a) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(js-sdk): remove dead product-option methods from admin.product
+
 ## 2.18.0
 
 ### Patch Changes

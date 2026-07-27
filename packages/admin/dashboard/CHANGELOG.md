@@ -1,5 +1,17 @@
 # @medusajs/dashboard
 
+## 2.19.0
+
+### Patch Changes
+
+- [#16191](https://github.com/medusajs/medusa/pull/16191) [`60346987f74cc606d6864df765e7d4b007def3fe`](https://github.com/medusajs/medusa/commit/60346987f74cc606d6864df765e7d4b007def3fe) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(dashboard): fix active sidebar link detection
+
+- Updated dependencies [[`f16a505cb0ccfc103ca393847bb819e8f7c6255a`](https://github.com/medusajs/medusa/commit/f16a505cb0ccfc103ca393847bb819e8f7c6255a)]:
+  - @medusajs/js-sdk@2.19.0
+  - @medusajs/admin-shared@2.19.0
+  - @medusajs/icons@2.19.0
+  - @medusajs/ui@4.2.1
+
 ## 2.18.0
 
 ### Minor Changes
